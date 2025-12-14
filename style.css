@@ -154,6 +154,7 @@
     .hero-img {
         flex: 0 0 auto;    /* Don't allow image to grow/shrink */
         margin-left: auto;  /* Push image to right */
+        margin-top: 60px;   /* Push image down */
     }
     .hero-img img {
         width: 250px;
